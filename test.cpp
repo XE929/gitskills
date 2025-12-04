@@ -3,8 +3,5 @@ using namespcae std;
 
 int main() {
 	cout << "hello world" << endl;
-	//Creating a new branch is quick. 
-	//write the seventh line here. 
-	//123456
-} 
-
+	//Creating a new branch is quick.
+}
